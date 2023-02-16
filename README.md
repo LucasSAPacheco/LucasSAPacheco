@@ -25,5 +25,5 @@ I am currently graduating in Software Engineering at [42 São Paulo](https://www
 
 <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/lsapacheco/">
-    <img align="center" height="30" width="90" src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="center" height="30" width="90" src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
