@@ -13,7 +13,7 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 ## Contact me:
 
 [![My LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsapacheco/)
-![My Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)
+[![My Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdFhFJXDqKxNfMHGlCRPdCTFZskhBsQBcQKwlDMQSLWnqbjRmKckSmLvPwwNTwvxjXNq)
 
 ## Languages and Tools:
 
