@@ -17,7 +17,7 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 
 ## Languages and Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=linux,c,py,git,html)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=linux,c,py,git,html,css)](https://skills.thijs.gg)
 
 ## My GitHub Stats:
 
