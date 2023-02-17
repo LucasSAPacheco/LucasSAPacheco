@@ -10,10 +10,8 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 
 - 🚀 I'm currently working on [42](https://www.42sp.org.br/) and [42cursus]() projects
 
-## Contact me:
+-  📫 How to reach me:  [Email](mailto:lukssapsilva@gmail.com) or [ LinkedIn](https://www.linkedin.com/in/lsapacheco/)
 
-[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsapacheco/)
-[![My Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdFhFJXDqKxNfMHGlCRPdCTFZskhBsQBcQKwlDMQSLWnqbjRmKckSmLvPwwNTwvxjXNq)
 
 ## Languages and Tools:
 
