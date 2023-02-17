@@ -8,7 +8,7 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 
 - 🌱 I'm currently learning `C` and `Python` at [42](https://www.42sp.org.br/)
 
-- 🚀 I'm currently working on [42](https://www.42sp.org.br/) and [42cursus]() projects
+- 🚀 I'm currently studying on [42](https://www.42sp.org.br/) and [42cursus]() projects
 
 -  📫 How to reach me:  [Email](mailto:lukssapsilva@gmail.com) or [ LinkedIn](https://www.linkedin.com/in/lsapacheco/)
 
