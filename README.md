@@ -1,29 +1,30 @@
-## Hello, my name is Lucas 👋
-I am currently graduating in Software Engineering at [42 São Paulo](https://www.42sp.org.br/)
-- 🎒 I'm also currently studying Java on the [Udemy platform](https://www.udemy.com/course/java-curso-completo/?src=sac&kw=Java+COMPLETO)
+# Hello, my name is Lucas 👋
 
+![My Banner](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
-<div align="left">
-  <a href="https://github.com/LucasSAPacheco">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasSAPacheco&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAPacheco&layout=compact&langs_count=7&theme=nord"/>
-</div>
+I'm a brazilian developer, currently studying Software Engineering at [42](https://www.42sp.org.br/)
 
+## About me:
 
-<div style="display: inline_block"><br>
+- 🌱 I'm currently learning `C` and `Python` at [42](https://www.42sp.org.br/)
 
- <img align="left" alt="Linux" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+- 🚀 I'm currently working on [42](https://www.42sp.org.br/) and [42cursus]() projects
 
- <img align="left" alt="C" height="35" width="50"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- <img align="center" alt="Python" height="35" width="50"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+## Contact me:
 
-</div>
+[![My Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2Z8Z9Z4)
+[![My Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasSAPacheco)
+[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s-a-pacheco/)
+![My Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)
 
+## Languages and Tools:
 
-<div style="display: inline_block"><br>
-    <a href="https://www.linkedin.com/in/lsapacheco/">
-    <img align="center" height="30" width="90" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=c,linux,py,mysql,docker,git,md,html,css)](https://skills.thijs.gg)
+
+## My GitHub Stats:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPacheco&show_icons=true&theme=dark)
+
+## My Top Languages:
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPacheco&layout=compact&theme=dark)
