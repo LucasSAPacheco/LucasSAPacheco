@@ -12,6 +12,8 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 
 -  📫 How to reach me:  [Email](mailto:lukssapsilva@gmail.com) or [ LinkedIn](https://www.linkedin.com/in/lsapacheco/)
 
+- ⚡ Fun fact: I love to watch series and play table tennis :P
+
 
 ## Languages and Tools:
 
@@ -19,5 +21,5 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 
 ## My GitHub Stats:
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasSAPacheco&show_icons=true&theme=dark)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAPacheco&layout=compact&theme=dark)
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=LucasSAPacheco&show_icons=true&theme=dark" />
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAPacheco&layout=compact&theme=dark" />
