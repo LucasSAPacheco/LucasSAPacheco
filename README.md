@@ -22,7 +22,4 @@ I'm a brazilian developer, currently studying Software Engineering at [42](https
 ## My GitHub Stats:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasSAPacheco&show_icons=true&theme=dark)
-
-## My Top Languages:
-
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAPacheco&layout=compact&theme=dark)
